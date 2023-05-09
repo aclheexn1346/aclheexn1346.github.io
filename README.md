@@ -1,3 +1,5 @@
+This stuff is a WIP
+
 Alex Chen, PhD student at UCLA Statistics
 
 Expected Graduation date: June 2025
@@ -23,6 +25,9 @@ Collaboration with Biostatisticians on finding TADs (Topologically Associating D
 <img width="822" alt="Screen Shot 2023-05-08 at 10 02 14 PM" src="https://user-images.githubusercontent.com/97409887/236998581-d3b30e09-d6a5-4d3e-9d45-bd7b3f0bd559.png">
 
 ### Datafest 2018 (Won first overall and Best Insight Award): [Using Indeed Job Data to Plan for the Future](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/main/DataFest%20Presentation%20(1).pdf)
+
+<img width="788" alt="Screen Shot 2023-05-08 at 10 18 51 PM" src="https://user-images.githubusercontent.com/97409887/237000899-c874e5b4-1f84-4973-ada0-d58ed46eb348.png">
+
 
 Use of Indeed job data to identify new metrics and insights to attract new users to Indeed.  Created new metric of relative purchasing power which used outside sources for cost of living data and identified industries as well as education levels which help improve relative purchasing power.  These insights and metrics give Indeed motivation to target younger users by providing insight on the effect of education and industry on salary for user retention.
 
