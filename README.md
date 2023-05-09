@@ -2,13 +2,17 @@
 
 ## Graduate
 
-### PhD Research: 
+### PhD Research: Discrete Data De-correlation in Bayesian Networks
+
+Discrete data, often found in medical or survival data, is difficult to work with, especially in the case of correlated data.  
 
 ## Undergraduate
 
 ### Undergraduate Research: [Hi-C Chromosome Conformation Capture Prediction using Lasso](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/main/HiC%20Presentation.pdf)
 
 Collaboration with Biostatisticians on finding TADs (Topologically Associating Domains) in Hi-C (https://en.wikipedia.org/wiki/Hi-C_(genomic_analysis_technique)) 25K by 25K big data.  Developed novel method of batch subsampling to fit constrained penalized Lasso regression.  Use of Lasso regression to identify important chromatins to help differentiate between cancer and normal cells.  In addition, due to the high costs of obtaining Hi-C data, we can also make use of the model as an estimate for data that has not been run through the Hi-C analysis, saving potentially 1000s of dollars.  Developed Shiny app to show prediction results from Hi-C data.
+
+
 
 ### Datafest 2018 (Won first overall and Best Insight Award): [Using Indeed Job Data to Plan for the Future](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/main/DataFest%20Presentation%20(1).pdf)
 
@@ -22,7 +26,7 @@ Collaborating with 9 other students on creating R Shiny applications/dashboards 
 
 Use of data collected in a professional Rugby team including self-reported wellness, performance, and location data.  Created new metric to evaluate how well players self-reported compared to their performance to evaluate player effectiveness in self-reporting.
 
-### Project: [Metaphor Detection with Cross-Lingual Model Transfer](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/main/Metaphor%20Presentation.pdf)
+### Data Science Capstone Project: [Metaphor Detection with Cross-Lingual Model Transfer](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/main/Metaphor%20Presentation.pdf)
 
 Review of methodology for detecting metaphors in text data.  Practical use in translating between languages, sentiment analysis, and chat bots.  Use of conceptual features such as "Degree of abstractness" or imageability of a word as well as structure of metaphors as an SVO (Subject verb object) or AN (Adjective noun)
 Examples:
