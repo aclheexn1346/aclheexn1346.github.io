@@ -1,10 +1,18 @@
+Alex Chen, PhD student at UCLA Statistics
+
+Expected Graduation date: June 2025
+
+[Link to Resume]
+
 # Repository of my past/current projects
 
 ## Graduate
 
 ### PhD Research: Discrete Data De-correlation in Bayesian Networks
 
-Discrete data, often found in medical or survival data, is difficult to work with, especially in the case of correlated data.  
+![mixed_dda](https://user-images.githubusercontent.com/97409887/236999982-bd3f05ca-c3a0-4b37-a7c8-60c40e633a10.png)
+
+Discrete data, often found in medical or survival data, is difficult to work with, especially in the case of correlated data.  To make use of causal inference methods (which use the i.i.d assumption), we de-correlate the discrete data using a novel method that approximates the Expectation-Maximization (EM) Algorithm.  This method shows improved causal graph estimates over baseline methods that assume independent observations.
 
 ## Undergraduate
 
@@ -20,9 +28,13 @@ Use of Indeed job data to identify new metrics and insights to attract new users
 
 ### [BOAST (Book of Apps for Statistical Teaching)](https://shinyapps.science.psu.edu/): https://shinyapps.science.psu.edu/
 
+<img width="991" alt="Screen Shot 2023-05-08 at 10 07 26 PM" src="https://user-images.githubusercontent.com/97409887/236999225-14f01ec6-8173-4bdd-aab2-d0ab5f9644ec.png">
+
 Collaborating with 9 other students on creating R Shiny applications/dashboards for teaching Statistics concepts in undergraduate classes.  Topics include probability, regression, time series, and more.  Personally created apps on use of Anova and Log Transformation.
 
 ###  Datafest 2019 (Won Best Insight Award): [Effectiveness of Self Reporting in Rugby Sevens](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/main/DataFest19.pdf)
+
+<img width="659" alt="Screen Shot 2023-05-08 at 10 05 30 PM" src="https://user-images.githubusercontent.com/97409887/236999029-f7709ba7-5f75-49c0-95a3-c3519885a722.png">
 
 Use of data collected in a professional Rugby team including self-reported wellness, performance, and location data.  Created new metric to evaluate how well players self-reported compared to their performance to evaluate player effectiveness in self-reporting.
 
@@ -36,4 +48,5 @@ The calm lake was a mirror
 
 Method uses MRC psycholinguistic database to give ratings of abstractness and imageability of words represented as a feature vector compacted via PCA.  Ratings and vector distances for words in the same sentence used to detect metaphors with high accuracy.
 
+<img width="506" alt="Screen Shot 2023-05-08 at 10 05 45 PM" src="https://user-images.githubusercontent.com/97409887/236999042-ef5792cd-7aec-4f82-aa24-9bc809d1d52c.png">
 
