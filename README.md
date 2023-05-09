@@ -12,7 +12,7 @@ Discrete data, often found in medical or survival data, is difficult to work wit
 
 Collaboration with Biostatisticians on finding TADs (Topologically Associating Domains) in Hi-C (https://en.wikipedia.org/wiki/Hi-C_(genomic_analysis_technique)) 25K by 25K big data.  Developed novel method of batch subsampling to fit constrained penalized Lasso regression.  Use of Lasso regression to identify important chromatins to help differentiate between cancer and normal cells.  In addition, due to the high costs of obtaining Hi-C data, we can also make use of the model as an estimate for data that has not been run through the Hi-C analysis, saving potentially 1000s of dollars.  Developed Shiny app to show prediction results from Hi-C data.
 
-
+<img width="822" alt="Screen Shot 2023-05-08 at 10 02 14 PM" src="https://user-images.githubusercontent.com/97409887/236998581-d3b30e09-d6a5-4d3e-9d45-bd7b3f0bd559.png">
 
 ### Datafest 2018 (Won first overall and Best Insight Award): [Using Indeed Job Data to Plan for the Future](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/main/DataFest%20Presentation%20(1).pdf)
 
