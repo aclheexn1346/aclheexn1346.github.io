@@ -4,7 +4,7 @@ Alex Chen, PhD student at UCLA Statistics
 
 Expected Graduation date: June 2025
 
-[Link to Resume]([Resume_AlexChen_2023_Oct2.pdf](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/7d6868bf593889deb67523628eb1fe441bb13f39/Resume__AlexChen_Oct.pdf))
+[Resume_AlexChen](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/7d6868bf593889deb67523628eb1fe441bb13f39/Resume__AlexChen_Oct.pdf)
 
 # Repository of my past/current projects
 
