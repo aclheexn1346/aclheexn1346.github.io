@@ -1,5 +1,3 @@
-This stuff is a WIP
-
 Alex Chen, PhD student at UCLA Statistics
 
 Expected Graduation date: June 2025
