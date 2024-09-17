@@ -20,7 +20,11 @@ We use this method on real RNA-seq data and obtain the causal network between di
 
 As a personal project, I really like Korean drama shows (Kdramas) and am always searching out for another one to watch. This led me to think of an idea to give some movies that I've already watched that I know I like and for an algorithm to let me know what is worth watching next. To use plot points of each show, I web-scraped MyDramaList.com for the top 100 kdramas and used that as my database. Then, I used BERT to understand and vectorize the synopsis. Then, I opted for a nearest-neighbors matching to give me a simple script to give me the recommendations. So far, it's been great!
 
+### Segmenting Yelp reviewers using LLM Open AI with Neo4j for knowledge graph extraction (In progress)
 
+Another personal project that I am currently working on is understanding how to separate reviewers into groups. I'm a Yelp Elite (Please don't think I'm conceited) and I find that some reviewers seemingly generally only give negative reviews while others give only positive reviews. Some also seem in-between. I'm only subjecting myself to a smaller dataset of 100 reviewers but my goal is to see how different reviewers can be evaluated on their trust-worthiness. I'm currently working out how to define trust-worthiness but it is hopefully something along the lines with: "If a reviewer gives very poor reviews to every single restaurant and those restaurants all have very high ratings over many reviews, the reviewer may be untrustworthy." tho there are some obvious flaws in that logic.
+
+I'm testing different database systems but currently am working with MongoDB to store reviewer data and Neo4j with OpenAI to do knowledge graph extraction. I'm hoping the knowledge graph can give important word-context to relationships between reviewers and restaurants over a more simplistic numerical summarization such as sentiment. This is a work-in-progress!
 
 ## Undergraduate
 
