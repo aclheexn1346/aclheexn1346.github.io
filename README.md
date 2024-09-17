@@ -1,6 +1,6 @@
 Alex Chen, PhD student at UCLA Statistics
 
-Expected Graduation date: June 2025
+Expected Graduation date: December 2025
 
 [Resume_AlexChen](https://github.com/aclheexn1346/aclheexn1346.github.io/blob/7d6868bf593889deb67523628eb1fe441bb13f39/Resume__AlexChen_Oct.pdf)
 
@@ -15,6 +15,10 @@ Expected Graduation date: June 2025
 Discrete data, often found in medical or survival data, is difficult to work with, especially in the case of correlated data.  To make use of causal inference methods (which use the i.i.d assumption), we de-correlate the discrete data using a novel method that approximates the Expectation-Maximization (EM) Algorithm.  This method shows improved causal graph estimates over baseline methods that assume independent observations.
 
 We use this method on real RNA-seq data and obtain the causal network between different genes in the data.  To determine if our method improves on traditional naive methods of causal inference, we obtain the likelihood of test data through cross-validation and compare between different methods.
+
+### KDrama recommendations with BERT LLM
+
+As a personal project, I really like Korean drama shows (Kdramas) and am always searching out for another one to watch. This led me to think of an idea to give some movies that I've already watched that I know I like and for an algorithm to let me know what is worth watching next. To use plot points of each show, I web-scraped MyDramaList.com for the top 100 kdramas and used that as my database. Then, I used BERT to understand and vectorize the synopsis. Then, I opted for a nearest-neighbors matching to give me a simple script to give me the recommendations. So far, it's been great!
 
 
 
